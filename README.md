@@ -1,4 +1,7 @@
-# site
+# My Personal Site
+
+ I know im the only one probably looking at this but still 
+ huh idk 
 
 ## Project setup
 ```
