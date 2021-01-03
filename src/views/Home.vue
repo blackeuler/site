@@ -21,7 +21,7 @@
           <router-link to="/about">
             <div class="flex-col flex items-center">
               <img src="../assets/Chris.png" alt="" />
-              <h2>About Me</h2>
+              <h2>About</h2>
             </div>
           </router-link>
 

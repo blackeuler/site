@@ -67,8 +67,13 @@
     v-bind:class="{ hidden: showBurger }"
   >
     <!-- <a class="" href="/projects.html"><h2>Projects</h2></a> -->
-    <a class="" href="/"><h2>Home</h2></a>
-    <a class="" href="/about.html"><h2>About</h2></a>
+   
+    <router-link to="/about">
+      <h2>About</h2>
+    </router-link>
+     <router-link to="/">
+      <h2>Home</h2>
+    </router-link>
     
   </div>
 </template>
