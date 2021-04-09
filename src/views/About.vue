@@ -19,6 +19,10 @@
         One of the other things that I take very seriously is helping people. With that in mind I hope that
         the writings that I will post here may help someone out there. 
       </article>
+      <article>
+          I apologize for anyone that visits this site to see this but I am just going to start editing and writing on this alot more
+          this is like my facebook now.... Or it should be right lol write lol 
+      </article>
       
     </div>
   </div>
